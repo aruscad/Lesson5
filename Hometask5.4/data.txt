@@ -1,0 +1,12 @@
+﻿11
+Ivanov Petr 4 5 3
+Petrov Petr 3 3 3
+Ivanov Sergey 4 5 5
+Pervov Petr 4 5 4
+Ivapov Petr 4 5 3
+Irranov Petr 4 5 3
+Iwwnov Petr 4 5 3
+Ivauyv Petr 3 3 3
+Ivattov Petr 2 4 3
+Ivthuv Petr 3 5 3
+Ifpoov Pytgh 5 5 5
